@@ -1,0 +1,10 @@
+[
+ {"question": "Explain the layered architecture in BW", "expect": {"source": "bw4hana_basics.md", "heading": "Layered architecture"}},
+ {"question": "how to calculate MAPE and why can it fail", "expect": {"source": "ml_forecasting.md", "heading": "Metrics"}},
+ {"question": "what does MERGE do on delta tables", "expect": {"source": "databricks_lakehouse.md", "heading": "Delta tables"}},
+ {"question": "tell me about window functions", "expect": {"source": "pyspark_patterns.md", "heading": "Window functions"}},
+ {"question": "can I validate input in a CAP handler", "expect": {"source": "cap_basics.md", "heading": "Custom logic"}},
+ {"question": "what tests does dbt ship with", "expect": {"source": "dbt_basics.md", "heading": "Tests"}},
+ {"question": "how to show source of an answer in RAG", "expect": {"source": "rag_basics.md", "heading": "Citations"}},
+ {"question": "What is Fiori elements", "expect": {"source": "sapui5_odata.md", "heading": "Fiori elements"}}
+]
